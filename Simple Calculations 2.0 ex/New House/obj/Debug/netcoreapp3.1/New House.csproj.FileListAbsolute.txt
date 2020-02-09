@@ -1,0 +1,11 @@
+D:\visual studio\Simple Calculations 2.0 ex\New House\bin\Debug\netcoreapp3.1\New House.exe
+D:\visual studio\Simple Calculations 2.0 ex\New House\bin\Debug\netcoreapp3.1\New House.deps.json
+D:\visual studio\Simple Calculations 2.0 ex\New House\bin\Debug\netcoreapp3.1\New House.runtimeconfig.json
+D:\visual studio\Simple Calculations 2.0 ex\New House\bin\Debug\netcoreapp3.1\New House.runtimeconfig.dev.json
+D:\visual studio\Simple Calculations 2.0 ex\New House\bin\Debug\netcoreapp3.1\New House.dll
+D:\visual studio\Simple Calculations 2.0 ex\New House\bin\Debug\netcoreapp3.1\New House.pdb
+D:\visual studio\Simple Calculations 2.0 ex\New House\obj\Debug\netcoreapp3.1\New House.csprojAssemblyReference.cache
+D:\visual studio\Simple Calculations 2.0 ex\New House\obj\Debug\netcoreapp3.1\New House.AssemblyInfoInputs.cache
+D:\visual studio\Simple Calculations 2.0 ex\New House\obj\Debug\netcoreapp3.1\New House.AssemblyInfo.cs
+D:\visual studio\Simple Calculations 2.0 ex\New House\obj\Debug\netcoreapp3.1\New House.dll
+D:\visual studio\Simple Calculations 2.0 ex\New House\obj\Debug\netcoreapp3.1\New House.pdb

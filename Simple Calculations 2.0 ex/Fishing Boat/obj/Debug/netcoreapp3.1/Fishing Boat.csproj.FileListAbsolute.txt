@@ -1,0 +1,11 @@
+D:\visual studio\Simple Calculations 2.0 ex\Fishing Boat\bin\Debug\netcoreapp3.1\Fishing Boat.exe
+D:\visual studio\Simple Calculations 2.0 ex\Fishing Boat\bin\Debug\netcoreapp3.1\Fishing Boat.deps.json
+D:\visual studio\Simple Calculations 2.0 ex\Fishing Boat\bin\Debug\netcoreapp3.1\Fishing Boat.runtimeconfig.json
+D:\visual studio\Simple Calculations 2.0 ex\Fishing Boat\bin\Debug\netcoreapp3.1\Fishing Boat.runtimeconfig.dev.json
+D:\visual studio\Simple Calculations 2.0 ex\Fishing Boat\bin\Debug\netcoreapp3.1\Fishing Boat.dll
+D:\visual studio\Simple Calculations 2.0 ex\Fishing Boat\bin\Debug\netcoreapp3.1\Fishing Boat.pdb
+D:\visual studio\Simple Calculations 2.0 ex\Fishing Boat\obj\Debug\netcoreapp3.1\Fishing Boat.csprojAssemblyReference.cache
+D:\visual studio\Simple Calculations 2.0 ex\Fishing Boat\obj\Debug\netcoreapp3.1\Fishing Boat.AssemblyInfoInputs.cache
+D:\visual studio\Simple Calculations 2.0 ex\Fishing Boat\obj\Debug\netcoreapp3.1\Fishing Boat.AssemblyInfo.cs
+D:\visual studio\Simple Calculations 2.0 ex\Fishing Boat\obj\Debug\netcoreapp3.1\Fishing Boat.dll
+D:\visual studio\Simple Calculations 2.0 ex\Fishing Boat\obj\Debug\netcoreapp3.1\Fishing Boat.pdb

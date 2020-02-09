@@ -1,0 +1,11 @@
+D:\visual studio\Simple Calculations 2.0 ex\Cinema\bin\Debug\netcoreapp3.1\Cinema.exe
+D:\visual studio\Simple Calculations 2.0 ex\Cinema\bin\Debug\netcoreapp3.1\Cinema.deps.json
+D:\visual studio\Simple Calculations 2.0 ex\Cinema\bin\Debug\netcoreapp3.1\Cinema.runtimeconfig.json
+D:\visual studio\Simple Calculations 2.0 ex\Cinema\bin\Debug\netcoreapp3.1\Cinema.runtimeconfig.dev.json
+D:\visual studio\Simple Calculations 2.0 ex\Cinema\bin\Debug\netcoreapp3.1\Cinema.dll
+D:\visual studio\Simple Calculations 2.0 ex\Cinema\bin\Debug\netcoreapp3.1\Cinema.pdb
+D:\visual studio\Simple Calculations 2.0 ex\Cinema\obj\Debug\netcoreapp3.1\Cinema.csprojAssemblyReference.cache
+D:\visual studio\Simple Calculations 2.0 ex\Cinema\obj\Debug\netcoreapp3.1\Cinema.AssemblyInfoInputs.cache
+D:\visual studio\Simple Calculations 2.0 ex\Cinema\obj\Debug\netcoreapp3.1\Cinema.AssemblyInfo.cs
+D:\visual studio\Simple Calculations 2.0 ex\Cinema\obj\Debug\netcoreapp3.1\Cinema.dll
+D:\visual studio\Simple Calculations 2.0 ex\Cinema\obj\Debug\netcoreapp3.1\Cinema.pdb
