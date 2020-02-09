@@ -1,0 +1,11 @@
+D:\visual studio\Simple-Calculations-Ex\DanceStudio\bin\Debug\netcoreapp3.1\DanceStudio.exe
+D:\visual studio\Simple-Calculations-Ex\DanceStudio\bin\Debug\netcoreapp3.1\DanceStudio.deps.json
+D:\visual studio\Simple-Calculations-Ex\DanceStudio\bin\Debug\netcoreapp3.1\DanceStudio.runtimeconfig.json
+D:\visual studio\Simple-Calculations-Ex\DanceStudio\bin\Debug\netcoreapp3.1\DanceStudio.runtimeconfig.dev.json
+D:\visual studio\Simple-Calculations-Ex\DanceStudio\bin\Debug\netcoreapp3.1\DanceStudio.dll
+D:\visual studio\Simple-Calculations-Ex\DanceStudio\bin\Debug\netcoreapp3.1\DanceStudio.pdb
+D:\visual studio\Simple-Calculations-Ex\DanceStudio\obj\Debug\netcoreapp3.1\DanceStudio.csprojAssemblyReference.cache
+D:\visual studio\Simple-Calculations-Ex\DanceStudio\obj\Debug\netcoreapp3.1\DanceStudio.AssemblyInfoInputs.cache
+D:\visual studio\Simple-Calculations-Ex\DanceStudio\obj\Debug\netcoreapp3.1\DanceStudio.AssemblyInfo.cs
+D:\visual studio\Simple-Calculations-Ex\DanceStudio\obj\Debug\netcoreapp3.1\DanceStudio.dll
+D:\visual studio\Simple-Calculations-Ex\DanceStudio\obj\Debug\netcoreapp3.1\DanceStudio.pdb

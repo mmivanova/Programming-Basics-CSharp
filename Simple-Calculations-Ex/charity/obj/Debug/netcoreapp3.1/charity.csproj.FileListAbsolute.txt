@@ -1,0 +1,11 @@
+D:\visual studio\Simple-Calculations-Ex\charity\bin\Debug\netcoreapp3.1\charity.exe
+D:\visual studio\Simple-Calculations-Ex\charity\bin\Debug\netcoreapp3.1\charity.deps.json
+D:\visual studio\Simple-Calculations-Ex\charity\bin\Debug\netcoreapp3.1\charity.runtimeconfig.json
+D:\visual studio\Simple-Calculations-Ex\charity\bin\Debug\netcoreapp3.1\charity.runtimeconfig.dev.json
+D:\visual studio\Simple-Calculations-Ex\charity\bin\Debug\netcoreapp3.1\charity.dll
+D:\visual studio\Simple-Calculations-Ex\charity\bin\Debug\netcoreapp3.1\charity.pdb
+D:\visual studio\Simple-Calculations-Ex\charity\obj\Debug\netcoreapp3.1\charity.csprojAssemblyReference.cache
+D:\visual studio\Simple-Calculations-Ex\charity\obj\Debug\netcoreapp3.1\charity.AssemblyInfoInputs.cache
+D:\visual studio\Simple-Calculations-Ex\charity\obj\Debug\netcoreapp3.1\charity.AssemblyInfo.cs
+D:\visual studio\Simple-Calculations-Ex\charity\obj\Debug\netcoreapp3.1\charity.dll
+D:\visual studio\Simple-Calculations-Ex\charity\obj\Debug\netcoreapp3.1\charity.pdb

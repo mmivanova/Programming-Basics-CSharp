@@ -1,0 +1,10 @@
+D:\visual studio\Simple-Calculations-Ex\alcoholmarket\bin\Debug\netcoreapp3.1\alcoholmarket.exe
+D:\visual studio\Simple-Calculations-Ex\alcoholmarket\bin\Debug\netcoreapp3.1\alcoholmarket.deps.json
+D:\visual studio\Simple-Calculations-Ex\alcoholmarket\bin\Debug\netcoreapp3.1\alcoholmarket.runtimeconfig.json
+D:\visual studio\Simple-Calculations-Ex\alcoholmarket\bin\Debug\netcoreapp3.1\alcoholmarket.runtimeconfig.dev.json
+D:\visual studio\Simple-Calculations-Ex\alcoholmarket\bin\Debug\netcoreapp3.1\alcoholmarket.dll
+D:\visual studio\Simple-Calculations-Ex\alcoholmarket\bin\Debug\netcoreapp3.1\alcoholmarket.pdb
+D:\visual studio\Simple-Calculations-Ex\alcoholmarket\obj\Debug\netcoreapp3.1\alcoholmarket.AssemblyInfoInputs.cache
+D:\visual studio\Simple-Calculations-Ex\alcoholmarket\obj\Debug\netcoreapp3.1\alcoholmarket.AssemblyInfo.cs
+D:\visual studio\Simple-Calculations-Ex\alcoholmarket\obj\Debug\netcoreapp3.1\alcoholmarket.dll
+D:\visual studio\Simple-Calculations-Ex\alcoholmarket\obj\Debug\netcoreapp3.1\alcoholmarket.pdb

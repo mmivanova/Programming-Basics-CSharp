@@ -1,0 +1,10 @@
+D:\visual studio\Simple-Calculations-Ex\Radians to Degrees\bin\Debug\netcoreapp3.1\Radians to Degrees.exe
+D:\visual studio\Simple-Calculations-Ex\Radians to Degrees\bin\Debug\netcoreapp3.1\Radians to Degrees.deps.json
+D:\visual studio\Simple-Calculations-Ex\Radians to Degrees\bin\Debug\netcoreapp3.1\Radians to Degrees.runtimeconfig.json
+D:\visual studio\Simple-Calculations-Ex\Radians to Degrees\bin\Debug\netcoreapp3.1\Radians to Degrees.runtimeconfig.dev.json
+D:\visual studio\Simple-Calculations-Ex\Radians to Degrees\bin\Debug\netcoreapp3.1\Radians to Degrees.dll
+D:\visual studio\Simple-Calculations-Ex\Radians to Degrees\bin\Debug\netcoreapp3.1\Radians to Degrees.pdb
+D:\visual studio\Simple-Calculations-Ex\Radians to Degrees\obj\Debug\netcoreapp3.1\Radians to Degrees.AssemblyInfoInputs.cache
+D:\visual studio\Simple-Calculations-Ex\Radians to Degrees\obj\Debug\netcoreapp3.1\Radians to Degrees.AssemblyInfo.cs
+D:\visual studio\Simple-Calculations-Ex\Radians to Degrees\obj\Debug\netcoreapp3.1\Radians to Degrees.dll
+D:\visual studio\Simple-Calculations-Ex\Radians to Degrees\obj\Debug\netcoreapp3.1\Radians to Degrees.pdb

@@ -1,0 +1,11 @@
+D:\visual studio\Simple-Calculations-Ex\usd to bgn\bin\Debug\netcoreapp3.1\usd to bgn.exe
+D:\visual studio\Simple-Calculations-Ex\usd to bgn\bin\Debug\netcoreapp3.1\usd to bgn.deps.json
+D:\visual studio\Simple-Calculations-Ex\usd to bgn\bin\Debug\netcoreapp3.1\usd to bgn.runtimeconfig.json
+D:\visual studio\Simple-Calculations-Ex\usd to bgn\bin\Debug\netcoreapp3.1\usd to bgn.runtimeconfig.dev.json
+D:\visual studio\Simple-Calculations-Ex\usd to bgn\bin\Debug\netcoreapp3.1\usd to bgn.dll
+D:\visual studio\Simple-Calculations-Ex\usd to bgn\bin\Debug\netcoreapp3.1\usd to bgn.pdb
+D:\visual studio\Simple-Calculations-Ex\usd to bgn\obj\Debug\netcoreapp3.1\usd to bgn.csprojAssemblyReference.cache
+D:\visual studio\Simple-Calculations-Ex\usd to bgn\obj\Debug\netcoreapp3.1\usd to bgn.AssemblyInfoInputs.cache
+D:\visual studio\Simple-Calculations-Ex\usd to bgn\obj\Debug\netcoreapp3.1\usd to bgn.AssemblyInfo.cs
+D:\visual studio\Simple-Calculations-Ex\usd to bgn\obj\Debug\netcoreapp3.1\usd to bgn.dll
+D:\visual studio\Simple-Calculations-Ex\usd to bgn\obj\Debug\netcoreapp3.1\usd to bgn.pdb

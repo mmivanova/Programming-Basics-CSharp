@@ -1,0 +1,11 @@
+D:\visual studio\Simple-Calculations-Ex\Workshop\bin\Debug\netcoreapp3.1\Workshop.exe
+D:\visual studio\Simple-Calculations-Ex\Workshop\bin\Debug\netcoreapp3.1\Workshop.deps.json
+D:\visual studio\Simple-Calculations-Ex\Workshop\bin\Debug\netcoreapp3.1\Workshop.runtimeconfig.json
+D:\visual studio\Simple-Calculations-Ex\Workshop\bin\Debug\netcoreapp3.1\Workshop.runtimeconfig.dev.json
+D:\visual studio\Simple-Calculations-Ex\Workshop\bin\Debug\netcoreapp3.1\Workshop.dll
+D:\visual studio\Simple-Calculations-Ex\Workshop\bin\Debug\netcoreapp3.1\Workshop.pdb
+D:\visual studio\Simple-Calculations-Ex\Workshop\obj\Debug\netcoreapp3.1\Workshop.AssemblyInfoInputs.cache
+D:\visual studio\Simple-Calculations-Ex\Workshop\obj\Debug\netcoreapp3.1\Workshop.AssemblyInfo.cs
+D:\visual studio\Simple-Calculations-Ex\Workshop\obj\Debug\netcoreapp3.1\Workshop.dll
+D:\visual studio\Simple-Calculations-Ex\Workshop\obj\Debug\netcoreapp3.1\Workshop.pdb
+D:\visual studio\Simple-Calculations-Ex\Workshop\obj\Debug\netcoreapp3.1\Workshop.csprojAssemblyReference.cache
