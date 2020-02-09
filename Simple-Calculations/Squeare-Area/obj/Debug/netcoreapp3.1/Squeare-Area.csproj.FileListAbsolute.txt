@@ -1,0 +1,11 @@
+D:\visual studio\Simple-Calculations\Squeare-Area\bin\Debug\netcoreapp3.1\Squeare-Area.exe
+D:\visual studio\Simple-Calculations\Squeare-Area\bin\Debug\netcoreapp3.1\Squeare-Area.deps.json
+D:\visual studio\Simple-Calculations\Squeare-Area\bin\Debug\netcoreapp3.1\Squeare-Area.runtimeconfig.json
+D:\visual studio\Simple-Calculations\Squeare-Area\bin\Debug\netcoreapp3.1\Squeare-Area.runtimeconfig.dev.json
+D:\visual studio\Simple-Calculations\Squeare-Area\bin\Debug\netcoreapp3.1\Squeare-Area.dll
+D:\visual studio\Simple-Calculations\Squeare-Area\bin\Debug\netcoreapp3.1\Squeare-Area.pdb
+D:\visual studio\Simple-Calculations\Squeare-Area\obj\Debug\netcoreapp3.1\Squeare-Area.csprojAssemblyReference.cache
+D:\visual studio\Simple-Calculations\Squeare-Area\obj\Debug\netcoreapp3.1\Squeare-Area.AssemblyInfoInputs.cache
+D:\visual studio\Simple-Calculations\Squeare-Area\obj\Debug\netcoreapp3.1\Squeare-Area.AssemblyInfo.cs
+D:\visual studio\Simple-Calculations\Squeare-Area\obj\Debug\netcoreapp3.1\Squeare-Area.dll
+D:\visual studio\Simple-Calculations\Squeare-Area\obj\Debug\netcoreapp3.1\Squeare-Area.pdb

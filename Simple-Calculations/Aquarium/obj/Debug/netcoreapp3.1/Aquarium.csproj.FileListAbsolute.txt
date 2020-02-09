@@ -1,0 +1,11 @@
+D:\visual studio\Simple-Calculations\Aquarium\bin\Debug\netcoreapp3.1\Aquarium.exe
+D:\visual studio\Simple-Calculations\Aquarium\bin\Debug\netcoreapp3.1\Aquarium.deps.json
+D:\visual studio\Simple-Calculations\Aquarium\bin\Debug\netcoreapp3.1\Aquarium.runtimeconfig.json
+D:\visual studio\Simple-Calculations\Aquarium\bin\Debug\netcoreapp3.1\Aquarium.runtimeconfig.dev.json
+D:\visual studio\Simple-Calculations\Aquarium\bin\Debug\netcoreapp3.1\Aquarium.dll
+D:\visual studio\Simple-Calculations\Aquarium\bin\Debug\netcoreapp3.1\Aquarium.pdb
+D:\visual studio\Simple-Calculations\Aquarium\obj\Debug\netcoreapp3.1\Aquarium.csprojAssemblyReference.cache
+D:\visual studio\Simple-Calculations\Aquarium\obj\Debug\netcoreapp3.1\Aquarium.AssemblyInfoInputs.cache
+D:\visual studio\Simple-Calculations\Aquarium\obj\Debug\netcoreapp3.1\Aquarium.AssemblyInfo.cs
+D:\visual studio\Simple-Calculations\Aquarium\obj\Debug\netcoreapp3.1\Aquarium.dll
+D:\visual studio\Simple-Calculations\Aquarium\obj\Debug\netcoreapp3.1\Aquarium.pdb

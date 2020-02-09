@@ -1,0 +1,10 @@
+D:\visual studio\Simple-Calculations\Concantenate-Data\bin\Debug\netcoreapp3.1\Concantenate-Data.exe
+D:\visual studio\Simple-Calculations\Concantenate-Data\bin\Debug\netcoreapp3.1\Concantenate-Data.deps.json
+D:\visual studio\Simple-Calculations\Concantenate-Data\bin\Debug\netcoreapp3.1\Concantenate-Data.runtimeconfig.json
+D:\visual studio\Simple-Calculations\Concantenate-Data\bin\Debug\netcoreapp3.1\Concantenate-Data.runtimeconfig.dev.json
+D:\visual studio\Simple-Calculations\Concantenate-Data\bin\Debug\netcoreapp3.1\Concantenate-Data.dll
+D:\visual studio\Simple-Calculations\Concantenate-Data\bin\Debug\netcoreapp3.1\Concantenate-Data.pdb
+D:\visual studio\Simple-Calculations\Concantenate-Data\obj\Debug\netcoreapp3.1\Concantenate-Data.AssemblyInfoInputs.cache
+D:\visual studio\Simple-Calculations\Concantenate-Data\obj\Debug\netcoreapp3.1\Concantenate-Data.AssemblyInfo.cs
+D:\visual studio\Simple-Calculations\Concantenate-Data\obj\Debug\netcoreapp3.1\Concantenate-Data.dll
+D:\visual studio\Simple-Calculations\Concantenate-Data\obj\Debug\netcoreapp3.1\Concantenate-Data.pdb
