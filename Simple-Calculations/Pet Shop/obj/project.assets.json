@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\visual studio\\Simple-Calculations\\Pet Shop\\Pet Shop.csproj",
+      "projectUniqueName": "D:\\visual studio\\Programming-Basics-with-C-\\Simple-Calculations\\Pet Shop\\Pet Shop.csproj",
       "projectName": "Pet Shop",
-      "projectPath": "D:\\visual studio\\Simple-Calculations\\Pet Shop\\Pet Shop.csproj",
+      "projectPath": "D:\\visual studio\\Programming-Basics-with-C-\\Simple-Calculations\\Pet Shop\\Pet Shop.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "D:\\visual studio\\Simple-Calculations\\Pet Shop\\obj\\",
+      "outputPath": "D:\\visual studio\\Programming-Basics-with-C-\\Simple-Calculations\\Pet Shop\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

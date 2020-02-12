@@ -8,6 +8,7 @@ namespace Inches_to_Centimeters
         {
             double inch = double.Parse(Console.ReadLine());
             double cent = inch * 2.54;
+            //Test commit
             Console.WriteLine(cent);
         }
     }

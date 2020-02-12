@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\visual studio\\Simple-Calculations\\Yard greening\\Yard greening.csproj": {}
+    "D:\\visual studio\\Programming-Basics-with-C-\\Simple-Calculations\\Yard greening\\Yard greening.csproj": {}
   },
   "projects": {
-    "D:\\visual studio\\Simple-Calculations\\Yard greening\\Yard greening.csproj": {
+    "D:\\visual studio\\Programming-Basics-with-C-\\Simple-Calculations\\Yard greening\\Yard greening.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\visual studio\\Simple-Calculations\\Yard greening\\Yard greening.csproj",
+        "projectUniqueName": "D:\\visual studio\\Programming-Basics-with-C-\\Simple-Calculations\\Yard greening\\Yard greening.csproj",
         "projectName": "Yard greening",
-        "projectPath": "D:\\visual studio\\Simple-Calculations\\Yard greening\\Yard greening.csproj",
+        "projectPath": "D:\\visual studio\\Programming-Basics-with-C-\\Simple-Calculations\\Yard greening\\Yard greening.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\visual studio\\Simple-Calculations\\Yard greening\\obj\\",
+        "outputPath": "D:\\visual studio\\Programming-Basics-with-C-\\Simple-Calculations\\Yard greening\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

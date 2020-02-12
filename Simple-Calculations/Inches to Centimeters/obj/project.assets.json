@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\visual studio\\Simple-Calculations\\Inches to Centimeters\\Inches to Centimeters.csproj",
+      "projectUniqueName": "D:\\visual studio\\Programming-Basics-with-C-\\Simple-Calculations\\Inches to Centimeters\\Inches to Centimeters.csproj",
       "projectName": "Inches to Centimeters",
-      "projectPath": "D:\\visual studio\\Simple-Calculations\\Inches to Centimeters\\Inches to Centimeters.csproj",
+      "projectPath": "D:\\visual studio\\Programming-Basics-with-C-\\Simple-Calculations\\Inches to Centimeters\\Inches to Centimeters.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "D:\\visual studio\\Simple-Calculations\\Inches to Centimeters\\obj\\",
+      "outputPath": "D:\\visual studio\\Programming-Basics-with-C-\\Simple-Calculations\\Inches to Centimeters\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\visual studio\\Simple-Calculations\\Greetings\\Greetings.csproj": {}
+    "D:\\visual studio\\Programming-Basics-with-C-\\Simple-Calculations\\Greetings\\Greetings.csproj": {}
   },
   "projects": {
-    "D:\\visual studio\\Simple-Calculations\\Greetings\\Greetings.csproj": {
+    "D:\\visual studio\\Programming-Basics-with-C-\\Simple-Calculations\\Greetings\\Greetings.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\visual studio\\Simple-Calculations\\Greetings\\Greetings.csproj",
+        "projectUniqueName": "D:\\visual studio\\Programming-Basics-with-C-\\Simple-Calculations\\Greetings\\Greetings.csproj",
         "projectName": "Greetings",
-        "projectPath": "D:\\visual studio\\Simple-Calculations\\Greetings\\Greetings.csproj",
+        "projectPath": "D:\\visual studio\\Programming-Basics-with-C-\\Simple-Calculations\\Greetings\\Greetings.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\visual studio\\Simple-Calculations\\Greetings\\obj\\",
+        "outputPath": "D:\\visual studio\\Programming-Basics-with-C-\\Simple-Calculations\\Greetings\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

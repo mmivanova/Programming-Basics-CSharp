@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\visual studio\\Simple-Calculations\\Squeare-Area\\Squeare-Area.csproj",
+      "projectUniqueName": "D:\\visual studio\\Programming-Basics-with-C-\\Simple-Calculations\\Squeare-Area\\Squeare-Area.csproj",
       "projectName": "Squeare-Area",
-      "projectPath": "D:\\visual studio\\Simple-Calculations\\Squeare-Area\\Squeare-Area.csproj",
+      "projectPath": "D:\\visual studio\\Programming-Basics-with-C-\\Simple-Calculations\\Squeare-Area\\Squeare-Area.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "D:\\visual studio\\Simple-Calculations\\Squeare-Area\\obj\\",
+      "outputPath": "D:\\visual studio\\Programming-Basics-with-C-\\Simple-Calculations\\Squeare-Area\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\visual studio\\Simple-Calculations\\Aquarium\\Aquarium.csproj": {}
+    "D:\\visual studio\\Programming-Basics-with-C-\\Simple-Calculations\\Aquarium\\Aquarium.csproj": {}
   },
   "projects": {
-    "D:\\visual studio\\Simple-Calculations\\Aquarium\\Aquarium.csproj": {
+    "D:\\visual studio\\Programming-Basics-with-C-\\Simple-Calculations\\Aquarium\\Aquarium.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\visual studio\\Simple-Calculations\\Aquarium\\Aquarium.csproj",
+        "projectUniqueName": "D:\\visual studio\\Programming-Basics-with-C-\\Simple-Calculations\\Aquarium\\Aquarium.csproj",
         "projectName": "Aquarium",
-        "projectPath": "D:\\visual studio\\Simple-Calculations\\Aquarium\\Aquarium.csproj",
+        "projectPath": "D:\\visual studio\\Programming-Basics-with-C-\\Simple-Calculations\\Aquarium\\Aquarium.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\visual studio\\Simple-Calculations\\Aquarium\\obj\\",
+        "outputPath": "D:\\visual studio\\Programming-Basics-with-C-\\Simple-Calculations\\Aquarium\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\visual studio\\Simple-Calculations\\Projects Creations\\Projects Creations.csproj": {}
+    "D:\\visual studio\\Programming-Basics-with-C-\\Simple-Calculations\\Projects Creations\\Projects Creations.csproj": {}
   },
   "projects": {
-    "D:\\visual studio\\Simple-Calculations\\Projects Creations\\Projects Creations.csproj": {
+    "D:\\visual studio\\Programming-Basics-with-C-\\Simple-Calculations\\Projects Creations\\Projects Creations.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\visual studio\\Simple-Calculations\\Projects Creations\\Projects Creations.csproj",
+        "projectUniqueName": "D:\\visual studio\\Programming-Basics-with-C-\\Simple-Calculations\\Projects Creations\\Projects Creations.csproj",
         "projectName": "Projects Creations",
-        "projectPath": "D:\\visual studio\\Simple-Calculations\\Projects Creations\\Projects Creations.csproj",
+        "projectPath": "D:\\visual studio\\Programming-Basics-with-C-\\Simple-Calculations\\Projects Creations\\Projects Creations.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\visual studio\\Simple-Calculations\\Projects Creations\\obj\\",
+        "outputPath": "D:\\visual studio\\Programming-Basics-with-C-\\Simple-Calculations\\Projects Creations\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
