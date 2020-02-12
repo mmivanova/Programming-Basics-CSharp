@@ -1,0 +1,11 @@
+D:\visual studio\Conditional Statements\Odd or Even\bin\Debug\netcoreapp3.1\Odd or Even.exe
+D:\visual studio\Conditional Statements\Odd or Even\bin\Debug\netcoreapp3.1\Odd or Even.deps.json
+D:\visual studio\Conditional Statements\Odd or Even\bin\Debug\netcoreapp3.1\Odd or Even.runtimeconfig.json
+D:\visual studio\Conditional Statements\Odd or Even\bin\Debug\netcoreapp3.1\Odd or Even.runtimeconfig.dev.json
+D:\visual studio\Conditional Statements\Odd or Even\bin\Debug\netcoreapp3.1\Odd or Even.dll
+D:\visual studio\Conditional Statements\Odd or Even\bin\Debug\netcoreapp3.1\Odd or Even.pdb
+D:\visual studio\Conditional Statements\Odd or Even\obj\Debug\netcoreapp3.1\Odd or Even.csprojAssemblyReference.cache
+D:\visual studio\Conditional Statements\Odd or Even\obj\Debug\netcoreapp3.1\Odd or Even.AssemblyInfoInputs.cache
+D:\visual studio\Conditional Statements\Odd or Even\obj\Debug\netcoreapp3.1\Odd or Even.AssemblyInfo.cs
+D:\visual studio\Conditional Statements\Odd or Even\obj\Debug\netcoreapp3.1\Odd or Even.dll
+D:\visual studio\Conditional Statements\Odd or Even\obj\Debug\netcoreapp3.1\Odd or Even.pdb

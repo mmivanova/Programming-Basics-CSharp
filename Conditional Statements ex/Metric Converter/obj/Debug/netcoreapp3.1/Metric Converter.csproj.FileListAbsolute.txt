@@ -1,0 +1,11 @@
+D:\visual studio\Conditional Statements ex\Metric Converter\bin\Debug\netcoreapp3.1\Metric Converter.exe
+D:\visual studio\Conditional Statements ex\Metric Converter\bin\Debug\netcoreapp3.1\Metric Converter.deps.json
+D:\visual studio\Conditional Statements ex\Metric Converter\bin\Debug\netcoreapp3.1\Metric Converter.runtimeconfig.json
+D:\visual studio\Conditional Statements ex\Metric Converter\bin\Debug\netcoreapp3.1\Metric Converter.runtimeconfig.dev.json
+D:\visual studio\Conditional Statements ex\Metric Converter\bin\Debug\netcoreapp3.1\Metric Converter.dll
+D:\visual studio\Conditional Statements ex\Metric Converter\bin\Debug\netcoreapp3.1\Metric Converter.pdb
+D:\visual studio\Conditional Statements ex\Metric Converter\obj\Debug\netcoreapp3.1\Metric Converter.csprojAssemblyReference.cache
+D:\visual studio\Conditional Statements ex\Metric Converter\obj\Debug\netcoreapp3.1\Metric Converter.AssemblyInfoInputs.cache
+D:\visual studio\Conditional Statements ex\Metric Converter\obj\Debug\netcoreapp3.1\Metric Converter.AssemblyInfo.cs
+D:\visual studio\Conditional Statements ex\Metric Converter\obj\Debug\netcoreapp3.1\Metric Converter.dll
+D:\visual studio\Conditional Statements ex\Metric Converter\obj\Debug\netcoreapp3.1\Metric Converter.pdb

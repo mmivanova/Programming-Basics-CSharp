@@ -1,0 +1,11 @@
+D:\visual studio\Conditional Statements\1 to 9\bin\Debug\netcoreapp3.1\1 to 9.exe
+D:\visual studio\Conditional Statements\1 to 9\bin\Debug\netcoreapp3.1\1 to 9.deps.json
+D:\visual studio\Conditional Statements\1 to 9\bin\Debug\netcoreapp3.1\1 to 9.runtimeconfig.json
+D:\visual studio\Conditional Statements\1 to 9\bin\Debug\netcoreapp3.1\1 to 9.runtimeconfig.dev.json
+D:\visual studio\Conditional Statements\1 to 9\bin\Debug\netcoreapp3.1\1 to 9.dll
+D:\visual studio\Conditional Statements\1 to 9\bin\Debug\netcoreapp3.1\1 to 9.pdb
+D:\visual studio\Conditional Statements\1 to 9\obj\Debug\netcoreapp3.1\1 to 9.csprojAssemblyReference.cache
+D:\visual studio\Conditional Statements\1 to 9\obj\Debug\netcoreapp3.1\1 to 9.AssemblyInfoInputs.cache
+D:\visual studio\Conditional Statements\1 to 9\obj\Debug\netcoreapp3.1\1 to 9.AssemblyInfo.cs
+D:\visual studio\Conditional Statements\1 to 9\obj\Debug\netcoreapp3.1\1 to 9.dll
+D:\visual studio\Conditional Statements\1 to 9\obj\Debug\netcoreapp3.1\1 to 9.pdb

@@ -1,0 +1,11 @@
+D:\visual studio\Conditional Statements 2.0\Trade Comissions\obj\Debug\netcoreapp3.1\Trade Comissions.csprojAssemblyReference.cache
+D:\visual studio\Conditional Statements 2.0\Trade Comissions\obj\Debug\netcoreapp3.1\Trade Comissions.AssemblyInfoInputs.cache
+D:\visual studio\Conditional Statements 2.0\Trade Comissions\obj\Debug\netcoreapp3.1\Trade Comissions.AssemblyInfo.cs
+D:\visual studio\Conditional Statements 2.0\Trade Comissions\bin\Debug\netcoreapp3.1\Trade Comissions.exe
+D:\visual studio\Conditional Statements 2.0\Trade Comissions\bin\Debug\netcoreapp3.1\Trade Comissions.deps.json
+D:\visual studio\Conditional Statements 2.0\Trade Comissions\bin\Debug\netcoreapp3.1\Trade Comissions.runtimeconfig.json
+D:\visual studio\Conditional Statements 2.0\Trade Comissions\bin\Debug\netcoreapp3.1\Trade Comissions.runtimeconfig.dev.json
+D:\visual studio\Conditional Statements 2.0\Trade Comissions\bin\Debug\netcoreapp3.1\Trade Comissions.dll
+D:\visual studio\Conditional Statements 2.0\Trade Comissions\bin\Debug\netcoreapp3.1\Trade Comissions.pdb
+D:\visual studio\Conditional Statements 2.0\Trade Comissions\obj\Debug\netcoreapp3.1\Trade Comissions.dll
+D:\visual studio\Conditional Statements 2.0\Trade Comissions\obj\Debug\netcoreapp3.1\Trade Comissions.pdb

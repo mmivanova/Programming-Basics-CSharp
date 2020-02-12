@@ -1,0 +1,10 @@
+D:\visual studio\Loops\Left and right sums\bin\Debug\netcoreapp3.1\Left and right sums.exe
+D:\visual studio\Loops\Left and right sums\bin\Debug\netcoreapp3.1\Left and right sums.deps.json
+D:\visual studio\Loops\Left and right sums\bin\Debug\netcoreapp3.1\Left and right sums.runtimeconfig.json
+D:\visual studio\Loops\Left and right sums\bin\Debug\netcoreapp3.1\Left and right sums.runtimeconfig.dev.json
+D:\visual studio\Loops\Left and right sums\bin\Debug\netcoreapp3.1\Left and right sums.dll
+D:\visual studio\Loops\Left and right sums\bin\Debug\netcoreapp3.1\Left and right sums.pdb
+D:\visual studio\Loops\Left and right sums\obj\Debug\netcoreapp3.1\Left and right sums.AssemblyInfoInputs.cache
+D:\visual studio\Loops\Left and right sums\obj\Debug\netcoreapp3.1\Left and right sums.AssemblyInfo.cs
+D:\visual studio\Loops\Left and right sums\obj\Debug\netcoreapp3.1\Left and right sums.dll
+D:\visual studio\Loops\Left and right sums\obj\Debug\netcoreapp3.1\Left and right sums.pdb

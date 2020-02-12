@@ -1,0 +1,10 @@
+D:\visual studio\Loops\N to 1\bin\Debug\netcoreapp3.1\N to 1.exe
+D:\visual studio\Loops\N to 1\bin\Debug\netcoreapp3.1\N to 1.deps.json
+D:\visual studio\Loops\N to 1\bin\Debug\netcoreapp3.1\N to 1.runtimeconfig.json
+D:\visual studio\Loops\N to 1\bin\Debug\netcoreapp3.1\N to 1.runtimeconfig.dev.json
+D:\visual studio\Loops\N to 1\bin\Debug\netcoreapp3.1\N to 1.dll
+D:\visual studio\Loops\N to 1\bin\Debug\netcoreapp3.1\N to 1.pdb
+D:\visual studio\Loops\N to 1\obj\Debug\netcoreapp3.1\N to 1.AssemblyInfoInputs.cache
+D:\visual studio\Loops\N to 1\obj\Debug\netcoreapp3.1\N to 1.AssemblyInfo.cs
+D:\visual studio\Loops\N to 1\obj\Debug\netcoreapp3.1\N to 1.dll
+D:\visual studio\Loops\N to 1\obj\Debug\netcoreapp3.1\N to 1.pdb

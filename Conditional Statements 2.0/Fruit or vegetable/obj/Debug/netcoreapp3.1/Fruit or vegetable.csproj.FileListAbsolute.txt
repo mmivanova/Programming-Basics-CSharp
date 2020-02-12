@@ -1,0 +1,10 @@
+D:\visual studio\Conditional Statements 2.0\Fruit or vegetable\bin\Debug\netcoreapp3.1\Fruit or vegetable.exe
+D:\visual studio\Conditional Statements 2.0\Fruit or vegetable\bin\Debug\netcoreapp3.1\Fruit or vegetable.deps.json
+D:\visual studio\Conditional Statements 2.0\Fruit or vegetable\bin\Debug\netcoreapp3.1\Fruit or vegetable.runtimeconfig.json
+D:\visual studio\Conditional Statements 2.0\Fruit or vegetable\bin\Debug\netcoreapp3.1\Fruit or vegetable.runtimeconfig.dev.json
+D:\visual studio\Conditional Statements 2.0\Fruit or vegetable\bin\Debug\netcoreapp3.1\Fruit or vegetable.dll
+D:\visual studio\Conditional Statements 2.0\Fruit or vegetable\bin\Debug\netcoreapp3.1\Fruit or vegetable.pdb
+D:\visual studio\Conditional Statements 2.0\Fruit or vegetable\obj\Debug\netcoreapp3.1\Fruit or vegetable.AssemblyInfoInputs.cache
+D:\visual studio\Conditional Statements 2.0\Fruit or vegetable\obj\Debug\netcoreapp3.1\Fruit or vegetable.AssemblyInfo.cs
+D:\visual studio\Conditional Statements 2.0\Fruit or vegetable\obj\Debug\netcoreapp3.1\Fruit or vegetable.dll
+D:\visual studio\Conditional Statements 2.0\Fruit or vegetable\obj\Debug\netcoreapp3.1\Fruit or vegetable.pdb

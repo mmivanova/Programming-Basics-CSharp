@@ -1,0 +1,11 @@
+D:\visual studio\Conditional Statements 2.0\small shop\bin\Debug\netcoreapp3.1\small shop.exe
+D:\visual studio\Conditional Statements 2.0\small shop\bin\Debug\netcoreapp3.1\small shop.deps.json
+D:\visual studio\Conditional Statements 2.0\small shop\bin\Debug\netcoreapp3.1\small shop.runtimeconfig.json
+D:\visual studio\Conditional Statements 2.0\small shop\bin\Debug\netcoreapp3.1\small shop.runtimeconfig.dev.json
+D:\visual studio\Conditional Statements 2.0\small shop\bin\Debug\netcoreapp3.1\small shop.dll
+D:\visual studio\Conditional Statements 2.0\small shop\bin\Debug\netcoreapp3.1\small shop.pdb
+D:\visual studio\Conditional Statements 2.0\small shop\obj\Debug\netcoreapp3.1\small shop.csprojAssemblyReference.cache
+D:\visual studio\Conditional Statements 2.0\small shop\obj\Debug\netcoreapp3.1\small shop.AssemblyInfoInputs.cache
+D:\visual studio\Conditional Statements 2.0\small shop\obj\Debug\netcoreapp3.1\small shop.AssemblyInfo.cs
+D:\visual studio\Conditional Statements 2.0\small shop\obj\Debug\netcoreapp3.1\small shop.dll
+D:\visual studio\Conditional Statements 2.0\small shop\obj\Debug\netcoreapp3.1\small shop.pdb

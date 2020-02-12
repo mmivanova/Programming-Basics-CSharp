@@ -1,0 +1,11 @@
+D:\visual studio\Loops\Odd or even sum\bin\Debug\netcoreapp3.1\Odd or even sum.exe
+D:\visual studio\Loops\Odd or even sum\bin\Debug\netcoreapp3.1\Odd or even sum.deps.json
+D:\visual studio\Loops\Odd or even sum\bin\Debug\netcoreapp3.1\Odd or even sum.runtimeconfig.json
+D:\visual studio\Loops\Odd or even sum\bin\Debug\netcoreapp3.1\Odd or even sum.runtimeconfig.dev.json
+D:\visual studio\Loops\Odd or even sum\bin\Debug\netcoreapp3.1\Odd or even sum.dll
+D:\visual studio\Loops\Odd or even sum\bin\Debug\netcoreapp3.1\Odd or even sum.pdb
+D:\visual studio\Loops\Odd or even sum\obj\Debug\netcoreapp3.1\Odd or even sum.csprojAssemblyReference.cache
+D:\visual studio\Loops\Odd or even sum\obj\Debug\netcoreapp3.1\Odd or even sum.AssemblyInfoInputs.cache
+D:\visual studio\Loops\Odd or even sum\obj\Debug\netcoreapp3.1\Odd or even sum.AssemblyInfo.cs
+D:\visual studio\Loops\Odd or even sum\obj\Debug\netcoreapp3.1\Odd or even sum.dll
+D:\visual studio\Loops\Odd or even sum\obj\Debug\netcoreapp3.1\Odd or even sum.pdb

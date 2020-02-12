@@ -1,0 +1,11 @@
+D:\visual studio\Conditional Statements 2.0\Animal Type\bin\Debug\netcoreapp3.1\Animal Type.exe
+D:\visual studio\Conditional Statements 2.0\Animal Type\bin\Debug\netcoreapp3.1\Animal Type.deps.json
+D:\visual studio\Conditional Statements 2.0\Animal Type\bin\Debug\netcoreapp3.1\Animal Type.runtimeconfig.json
+D:\visual studio\Conditional Statements 2.0\Animal Type\bin\Debug\netcoreapp3.1\Animal Type.runtimeconfig.dev.json
+D:\visual studio\Conditional Statements 2.0\Animal Type\bin\Debug\netcoreapp3.1\Animal Type.dll
+D:\visual studio\Conditional Statements 2.0\Animal Type\bin\Debug\netcoreapp3.1\Animal Type.pdb
+D:\visual studio\Conditional Statements 2.0\Animal Type\obj\Debug\netcoreapp3.1\Animal Type.csprojAssemblyReference.cache
+D:\visual studio\Conditional Statements 2.0\Animal Type\obj\Debug\netcoreapp3.1\Animal Type.AssemblyInfoInputs.cache
+D:\visual studio\Conditional Statements 2.0\Animal Type\obj\Debug\netcoreapp3.1\Animal Type.AssemblyInfo.cs
+D:\visual studio\Conditional Statements 2.0\Animal Type\obj\Debug\netcoreapp3.1\Animal Type.dll
+D:\visual studio\Conditional Statements 2.0\Animal Type\obj\Debug\netcoreapp3.1\Animal Type.pdb

@@ -1,0 +1,11 @@
+D:\visual studio\Conditional Statements 2.0\Personal Titles\bin\Debug\netcoreapp3.1\Personal Titles.exe
+D:\visual studio\Conditional Statements 2.0\Personal Titles\bin\Debug\netcoreapp3.1\Personal Titles.deps.json
+D:\visual studio\Conditional Statements 2.0\Personal Titles\bin\Debug\netcoreapp3.1\Personal Titles.runtimeconfig.json
+D:\visual studio\Conditional Statements 2.0\Personal Titles\bin\Debug\netcoreapp3.1\Personal Titles.runtimeconfig.dev.json
+D:\visual studio\Conditional Statements 2.0\Personal Titles\bin\Debug\netcoreapp3.1\Personal Titles.dll
+D:\visual studio\Conditional Statements 2.0\Personal Titles\bin\Debug\netcoreapp3.1\Personal Titles.pdb
+D:\visual studio\Conditional Statements 2.0\Personal Titles\obj\Debug\netcoreapp3.1\Personal Titles.csprojAssemblyReference.cache
+D:\visual studio\Conditional Statements 2.0\Personal Titles\obj\Debug\netcoreapp3.1\Personal Titles.AssemblyInfoInputs.cache
+D:\visual studio\Conditional Statements 2.0\Personal Titles\obj\Debug\netcoreapp3.1\Personal Titles.AssemblyInfo.cs
+D:\visual studio\Conditional Statements 2.0\Personal Titles\obj\Debug\netcoreapp3.1\Personal Titles.dll
+D:\visual studio\Conditional Statements 2.0\Personal Titles\obj\Debug\netcoreapp3.1\Personal Titles.pdb

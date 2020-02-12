@@ -1,0 +1,11 @@
+D:\visual studio\Loops\sum of vowels\bin\Debug\netcoreapp3.1\sum of vowels.exe
+D:\visual studio\Loops\sum of vowels\bin\Debug\netcoreapp3.1\sum of vowels.deps.json
+D:\visual studio\Loops\sum of vowels\bin\Debug\netcoreapp3.1\sum of vowels.runtimeconfig.json
+D:\visual studio\Loops\sum of vowels\bin\Debug\netcoreapp3.1\sum of vowels.runtimeconfig.dev.json
+D:\visual studio\Loops\sum of vowels\bin\Debug\netcoreapp3.1\sum of vowels.dll
+D:\visual studio\Loops\sum of vowels\bin\Debug\netcoreapp3.1\sum of vowels.pdb
+D:\visual studio\Loops\sum of vowels\obj\Debug\netcoreapp3.1\sum of vowels.csprojAssemblyReference.cache
+D:\visual studio\Loops\sum of vowels\obj\Debug\netcoreapp3.1\sum of vowels.AssemblyInfoInputs.cache
+D:\visual studio\Loops\sum of vowels\obj\Debug\netcoreapp3.1\sum of vowels.AssemblyInfo.cs
+D:\visual studio\Loops\sum of vowels\obj\Debug\netcoreapp3.1\sum of vowels.dll
+D:\visual studio\Loops\sum of vowels\obj\Debug\netcoreapp3.1\sum of vowels.pdb

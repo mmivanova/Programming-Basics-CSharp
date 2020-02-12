@@ -1,0 +1,11 @@
+D:\visual studio\Conditional Statements 2.0\number in range\bin\Debug\netcoreapp3.1\number in range.exe
+D:\visual studio\Conditional Statements 2.0\number in range\bin\Debug\netcoreapp3.1\number in range.deps.json
+D:\visual studio\Conditional Statements 2.0\number in range\bin\Debug\netcoreapp3.1\number in range.runtimeconfig.json
+D:\visual studio\Conditional Statements 2.0\number in range\bin\Debug\netcoreapp3.1\number in range.runtimeconfig.dev.json
+D:\visual studio\Conditional Statements 2.0\number in range\bin\Debug\netcoreapp3.1\number in range.dll
+D:\visual studio\Conditional Statements 2.0\number in range\bin\Debug\netcoreapp3.1\number in range.pdb
+D:\visual studio\Conditional Statements 2.0\number in range\obj\Debug\netcoreapp3.1\number in range.AssemblyInfoInputs.cache
+D:\visual studio\Conditional Statements 2.0\number in range\obj\Debug\netcoreapp3.1\number in range.AssemblyInfo.cs
+D:\visual studio\Conditional Statements 2.0\number in range\obj\Debug\netcoreapp3.1\number in range.dll
+D:\visual studio\Conditional Statements 2.0\number in range\obj\Debug\netcoreapp3.1\number in range.pdb
+D:\visual studio\Conditional Statements 2.0\number in range\obj\Debug\netcoreapp3.1\number in range.csprojAssemblyReference.cache

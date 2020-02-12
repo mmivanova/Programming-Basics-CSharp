@@ -1,0 +1,11 @@
+D:\visual studio\Conditional Statements ex\Bonus Score\bin\Debug\netcoreapp3.1\Bonus Score.exe
+D:\visual studio\Conditional Statements ex\Bonus Score\bin\Debug\netcoreapp3.1\Bonus Score.deps.json
+D:\visual studio\Conditional Statements ex\Bonus Score\bin\Debug\netcoreapp3.1\Bonus Score.runtimeconfig.json
+D:\visual studio\Conditional Statements ex\Bonus Score\bin\Debug\netcoreapp3.1\Bonus Score.runtimeconfig.dev.json
+D:\visual studio\Conditional Statements ex\Bonus Score\bin\Debug\netcoreapp3.1\Bonus Score.dll
+D:\visual studio\Conditional Statements ex\Bonus Score\bin\Debug\netcoreapp3.1\Bonus Score.pdb
+D:\visual studio\Conditional Statements ex\Bonus Score\obj\Debug\netcoreapp3.1\Bonus Score.AssemblyInfoInputs.cache
+D:\visual studio\Conditional Statements ex\Bonus Score\obj\Debug\netcoreapp3.1\Bonus Score.AssemblyInfo.cs
+D:\visual studio\Conditional Statements ex\Bonus Score\obj\Debug\netcoreapp3.1\Bonus Score.dll
+D:\visual studio\Conditional Statements ex\Bonus Score\obj\Debug\netcoreapp3.1\Bonus Score.pdb
+D:\visual studio\Conditional Statements ex\Bonus Score\obj\Debug\netcoreapp3.1\Bonus Score.csprojAssemblyReference.cache

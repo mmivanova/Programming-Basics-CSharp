@@ -1,0 +1,11 @@
+D:\visual studio\Conditional Statements ex\Speed Info\bin\Debug\netcoreapp3.1\Speed Info.exe
+D:\visual studio\Conditional Statements ex\Speed Info\bin\Debug\netcoreapp3.1\Speed Info.deps.json
+D:\visual studio\Conditional Statements ex\Speed Info\bin\Debug\netcoreapp3.1\Speed Info.runtimeconfig.json
+D:\visual studio\Conditional Statements ex\Speed Info\bin\Debug\netcoreapp3.1\Speed Info.runtimeconfig.dev.json
+D:\visual studio\Conditional Statements ex\Speed Info\bin\Debug\netcoreapp3.1\Speed Info.dll
+D:\visual studio\Conditional Statements ex\Speed Info\bin\Debug\netcoreapp3.1\Speed Info.pdb
+D:\visual studio\Conditional Statements ex\Speed Info\obj\Debug\netcoreapp3.1\Speed Info.csprojAssemblyReference.cache
+D:\visual studio\Conditional Statements ex\Speed Info\obj\Debug\netcoreapp3.1\Speed Info.AssemblyInfoInputs.cache
+D:\visual studio\Conditional Statements ex\Speed Info\obj\Debug\netcoreapp3.1\Speed Info.AssemblyInfo.cs
+D:\visual studio\Conditional Statements ex\Speed Info\obj\Debug\netcoreapp3.1\Speed Info.dll
+D:\visual studio\Conditional Statements ex\Speed Info\obj\Debug\netcoreapp3.1\Speed Info.pdb

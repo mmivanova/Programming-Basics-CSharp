@@ -1,0 +1,11 @@
+D:\visual studio\Conditional Statements\Excellent Result\bin\Debug\netcoreapp3.1\Excellent Result.exe
+D:\visual studio\Conditional Statements\Excellent Result\bin\Debug\netcoreapp3.1\Excellent Result.deps.json
+D:\visual studio\Conditional Statements\Excellent Result\bin\Debug\netcoreapp3.1\Excellent Result.runtimeconfig.json
+D:\visual studio\Conditional Statements\Excellent Result\bin\Debug\netcoreapp3.1\Excellent Result.runtimeconfig.dev.json
+D:\visual studio\Conditional Statements\Excellent Result\bin\Debug\netcoreapp3.1\Excellent Result.dll
+D:\visual studio\Conditional Statements\Excellent Result\bin\Debug\netcoreapp3.1\Excellent Result.pdb
+D:\visual studio\Conditional Statements\Excellent Result\obj\Debug\netcoreapp3.1\Excellent Result.csprojAssemblyReference.cache
+D:\visual studio\Conditional Statements\Excellent Result\obj\Debug\netcoreapp3.1\Excellent Result.AssemblyInfoInputs.cache
+D:\visual studio\Conditional Statements\Excellent Result\obj\Debug\netcoreapp3.1\Excellent Result.AssemblyInfo.cs
+D:\visual studio\Conditional Statements\Excellent Result\obj\Debug\netcoreapp3.1\Excellent Result.dll
+D:\visual studio\Conditional Statements\Excellent Result\obj\Debug\netcoreapp3.1\Excellent Result.pdb

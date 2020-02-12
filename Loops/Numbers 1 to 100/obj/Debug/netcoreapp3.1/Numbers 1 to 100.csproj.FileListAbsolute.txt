@@ -1,0 +1,11 @@
+D:\visual studio\Loops\Numbers 1 to 100\bin\Debug\netcoreapp3.1\Numbers 1 to 100.exe
+D:\visual studio\Loops\Numbers 1 to 100\bin\Debug\netcoreapp3.1\Numbers 1 to 100.deps.json
+D:\visual studio\Loops\Numbers 1 to 100\bin\Debug\netcoreapp3.1\Numbers 1 to 100.runtimeconfig.json
+D:\visual studio\Loops\Numbers 1 to 100\bin\Debug\netcoreapp3.1\Numbers 1 to 100.runtimeconfig.dev.json
+D:\visual studio\Loops\Numbers 1 to 100\bin\Debug\netcoreapp3.1\Numbers 1 to 100.dll
+D:\visual studio\Loops\Numbers 1 to 100\bin\Debug\netcoreapp3.1\Numbers 1 to 100.pdb
+D:\visual studio\Loops\Numbers 1 to 100\obj\Debug\netcoreapp3.1\Numbers 1 to 100.csprojAssemblyReference.cache
+D:\visual studio\Loops\Numbers 1 to 100\obj\Debug\netcoreapp3.1\Numbers 1 to 100.AssemblyInfoInputs.cache
+D:\visual studio\Loops\Numbers 1 to 100\obj\Debug\netcoreapp3.1\Numbers 1 to 100.AssemblyInfo.cs
+D:\visual studio\Loops\Numbers 1 to 100\obj\Debug\netcoreapp3.1\Numbers 1 to 100.dll
+D:\visual studio\Loops\Numbers 1 to 100\obj\Debug\netcoreapp3.1\Numbers 1 to 100.pdb

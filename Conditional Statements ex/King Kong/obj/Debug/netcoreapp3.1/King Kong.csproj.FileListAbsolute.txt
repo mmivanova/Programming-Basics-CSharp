@@ -1,0 +1,11 @@
+D:\visual studio\Conditional Statements ex\King Kong\bin\Debug\netcoreapp3.1\King Kong.exe
+D:\visual studio\Conditional Statements ex\King Kong\bin\Debug\netcoreapp3.1\King Kong.deps.json
+D:\visual studio\Conditional Statements ex\King Kong\bin\Debug\netcoreapp3.1\King Kong.runtimeconfig.json
+D:\visual studio\Conditional Statements ex\King Kong\bin\Debug\netcoreapp3.1\King Kong.runtimeconfig.dev.json
+D:\visual studio\Conditional Statements ex\King Kong\bin\Debug\netcoreapp3.1\King Kong.dll
+D:\visual studio\Conditional Statements ex\King Kong\bin\Debug\netcoreapp3.1\King Kong.pdb
+D:\visual studio\Conditional Statements ex\King Kong\obj\Debug\netcoreapp3.1\King Kong.csprojAssemblyReference.cache
+D:\visual studio\Conditional Statements ex\King Kong\obj\Debug\netcoreapp3.1\King Kong.AssemblyInfoInputs.cache
+D:\visual studio\Conditional Statements ex\King Kong\obj\Debug\netcoreapp3.1\King Kong.AssemblyInfo.cs
+D:\visual studio\Conditional Statements ex\King Kong\obj\Debug\netcoreapp3.1\King Kong.dll
+D:\visual studio\Conditional Statements ex\King Kong\obj\Debug\netcoreapp3.1\King Kong.pdb

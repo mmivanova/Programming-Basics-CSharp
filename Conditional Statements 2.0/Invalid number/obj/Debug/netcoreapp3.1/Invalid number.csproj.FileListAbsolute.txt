@@ -1,0 +1,11 @@
+D:\visual studio\Conditional Statements 2.0\Invalid number\bin\Debug\netcoreapp3.1\Invalid number.exe
+D:\visual studio\Conditional Statements 2.0\Invalid number\bin\Debug\netcoreapp3.1\Invalid number.deps.json
+D:\visual studio\Conditional Statements 2.0\Invalid number\bin\Debug\netcoreapp3.1\Invalid number.runtimeconfig.json
+D:\visual studio\Conditional Statements 2.0\Invalid number\bin\Debug\netcoreapp3.1\Invalid number.runtimeconfig.dev.json
+D:\visual studio\Conditional Statements 2.0\Invalid number\bin\Debug\netcoreapp3.1\Invalid number.dll
+D:\visual studio\Conditional Statements 2.0\Invalid number\bin\Debug\netcoreapp3.1\Invalid number.pdb
+D:\visual studio\Conditional Statements 2.0\Invalid number\obj\Debug\netcoreapp3.1\Invalid number.csprojAssemblyReference.cache
+D:\visual studio\Conditional Statements 2.0\Invalid number\obj\Debug\netcoreapp3.1\Invalid number.AssemblyInfoInputs.cache
+D:\visual studio\Conditional Statements 2.0\Invalid number\obj\Debug\netcoreapp3.1\Invalid number.AssemblyInfo.cs
+D:\visual studio\Conditional Statements 2.0\Invalid number\obj\Debug\netcoreapp3.1\Invalid number.dll
+D:\visual studio\Conditional Statements 2.0\Invalid number\obj\Debug\netcoreapp3.1\Invalid number.pdb

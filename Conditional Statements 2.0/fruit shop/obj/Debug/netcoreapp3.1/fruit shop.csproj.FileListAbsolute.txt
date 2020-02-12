@@ -1,0 +1,11 @@
+D:\visual studio\Conditional Statements 2.0\fruit shop\bin\Debug\netcoreapp3.1\fruit shop.exe
+D:\visual studio\Conditional Statements 2.0\fruit shop\bin\Debug\netcoreapp3.1\fruit shop.deps.json
+D:\visual studio\Conditional Statements 2.0\fruit shop\bin\Debug\netcoreapp3.1\fruit shop.runtimeconfig.json
+D:\visual studio\Conditional Statements 2.0\fruit shop\bin\Debug\netcoreapp3.1\fruit shop.runtimeconfig.dev.json
+D:\visual studio\Conditional Statements 2.0\fruit shop\bin\Debug\netcoreapp3.1\fruit shop.dll
+D:\visual studio\Conditional Statements 2.0\fruit shop\bin\Debug\netcoreapp3.1\fruit shop.pdb
+D:\visual studio\Conditional Statements 2.0\fruit shop\obj\Debug\netcoreapp3.1\fruit shop.csprojAssemblyReference.cache
+D:\visual studio\Conditional Statements 2.0\fruit shop\obj\Debug\netcoreapp3.1\fruit shop.AssemblyInfoInputs.cache
+D:\visual studio\Conditional Statements 2.0\fruit shop\obj\Debug\netcoreapp3.1\fruit shop.AssemblyInfo.cs
+D:\visual studio\Conditional Statements 2.0\fruit shop\obj\Debug\netcoreapp3.1\fruit shop.dll
+D:\visual studio\Conditional Statements 2.0\fruit shop\obj\Debug\netcoreapp3.1\fruit shop.pdb

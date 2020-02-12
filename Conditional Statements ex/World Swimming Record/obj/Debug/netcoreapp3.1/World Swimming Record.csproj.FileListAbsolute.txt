@@ -1,0 +1,10 @@
+D:\visual studio\Conditional Statements ex\World Swimming Record\bin\Debug\netcoreapp3.1\World Swimming Record.exe
+D:\visual studio\Conditional Statements ex\World Swimming Record\bin\Debug\netcoreapp3.1\World Swimming Record.deps.json
+D:\visual studio\Conditional Statements ex\World Swimming Record\bin\Debug\netcoreapp3.1\World Swimming Record.runtimeconfig.json
+D:\visual studio\Conditional Statements ex\World Swimming Record\bin\Debug\netcoreapp3.1\World Swimming Record.runtimeconfig.dev.json
+D:\visual studio\Conditional Statements ex\World Swimming Record\bin\Debug\netcoreapp3.1\World Swimming Record.dll
+D:\visual studio\Conditional Statements ex\World Swimming Record\bin\Debug\netcoreapp3.1\World Swimming Record.pdb
+D:\visual studio\Conditional Statements ex\World Swimming Record\obj\Debug\netcoreapp3.1\World Swimming Record.AssemblyInfoInputs.cache
+D:\visual studio\Conditional Statements ex\World Swimming Record\obj\Debug\netcoreapp3.1\World Swimming Record.AssemblyInfo.cs
+D:\visual studio\Conditional Statements ex\World Swimming Record\obj\Debug\netcoreapp3.1\World Swimming Record.dll
+D:\visual studio\Conditional Statements ex\World Swimming Record\obj\Debug\netcoreapp3.1\World Swimming Record.pdb
