@@ -1,0 +1,11 @@
+D:\visual studio\Loops ex\Odd or Even position\bin\Debug\netcoreapp3.1\Odd or Even position.exe
+D:\visual studio\Loops ex\Odd or Even position\bin\Debug\netcoreapp3.1\Odd or Even position.deps.json
+D:\visual studio\Loops ex\Odd or Even position\bin\Debug\netcoreapp3.1\Odd or Even position.runtimeconfig.json
+D:\visual studio\Loops ex\Odd or Even position\bin\Debug\netcoreapp3.1\Odd or Even position.runtimeconfig.dev.json
+D:\visual studio\Loops ex\Odd or Even position\bin\Debug\netcoreapp3.1\Odd or Even position.dll
+D:\visual studio\Loops ex\Odd or Even position\bin\Debug\netcoreapp3.1\Odd or Even position.pdb
+D:\visual studio\Loops ex\Odd or Even position\obj\Debug\netcoreapp3.1\Odd or Even position.csprojAssemblyReference.cache
+D:\visual studio\Loops ex\Odd or Even position\obj\Debug\netcoreapp3.1\Odd or Even position.AssemblyInfoInputs.cache
+D:\visual studio\Loops ex\Odd or Even position\obj\Debug\netcoreapp3.1\Odd or Even position.AssemblyInfo.cs
+D:\visual studio\Loops ex\Odd or Even position\obj\Debug\netcoreapp3.1\Odd or Even position.dll
+D:\visual studio\Loops ex\Odd or Even position\obj\Debug\netcoreapp3.1\Odd or Even position.pdb

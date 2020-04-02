@@ -1,0 +1,11 @@
+D:\visual studio\Loops ex\Histogram\bin\Debug\netcoreapp3.1\Histogram.exe
+D:\visual studio\Loops ex\Histogram\bin\Debug\netcoreapp3.1\Histogram.deps.json
+D:\visual studio\Loops ex\Histogram\bin\Debug\netcoreapp3.1\Histogram.runtimeconfig.json
+D:\visual studio\Loops ex\Histogram\bin\Debug\netcoreapp3.1\Histogram.runtimeconfig.dev.json
+D:\visual studio\Loops ex\Histogram\bin\Debug\netcoreapp3.1\Histogram.dll
+D:\visual studio\Loops ex\Histogram\bin\Debug\netcoreapp3.1\Histogram.pdb
+D:\visual studio\Loops ex\Histogram\obj\Debug\netcoreapp3.1\Histogram.csprojAssemblyReference.cache
+D:\visual studio\Loops ex\Histogram\obj\Debug\netcoreapp3.1\Histogram.AssemblyInfoInputs.cache
+D:\visual studio\Loops ex\Histogram\obj\Debug\netcoreapp3.1\Histogram.AssemblyInfo.cs
+D:\visual studio\Loops ex\Histogram\obj\Debug\netcoreapp3.1\Histogram.dll
+D:\visual studio\Loops ex\Histogram\obj\Debug\netcoreapp3.1\Histogram.pdb
